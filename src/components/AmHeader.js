@@ -23,7 +23,7 @@ function AmHeader({ headerProp }) {
       </div>
 
       <img src="/images/flag.png" id="flag"></img>
-      <p className="header-text">Account list</p>
+      <p className="header-text">Account & list</p>
       <p className="header-text">Returns & Orders</p>
       {/* <Link to="/login">
         <div>
