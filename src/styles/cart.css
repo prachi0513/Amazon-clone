@@ -1,0 +1,51 @@
+
+.cart{
+    /* border: 2px solid black; */
+   
+    width: 20vw;
+    height: 50vh;
+    margin: 2.1%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.cart-box{
+    margin-top: 6em;
+    display: flex;
+    flex-wrap: wrap;
+    
+      
+}
+.img{
+    width: 12vw;
+    display: flex;
+   margin: 4% 4% 4% 14%;
+}
+.cart-price{
+   
+    color: blue;
+    margin: 3% 3% 3% 35%;
+}
+
+.cart-name{
+    font-weight: bold;
+    margin: 2% 2% 2% 7%;
+}
+
+.add-to-cart{
+    background-color: #FFD814;
+    border: none;
+    width: 9vw;
+    height: 5vh;
+    border-radius: 7px;
+    margin: 3% 2% 2% 22%;
+}
+
+.nostock-btn{
+    background-color: #cedff4;
+    border: none;
+    
+    padding: 8px;
+    height: 5vh; 
+    border-radius: 7px;
+    margin: 0% 0% 0% 0%;
+}

@@ -1,0 +1,38 @@
+.SubHeader{
+    display: flex;
+    height: 6vh;
+    background-color: #232F3E;
+    position: fixed;
+    top: 70px;
+    width: 100vw;
+    overflow: hidden;
+    
+}
+
+.SubHeader p{
+    color: white;
+    margin: 0.5% 0% 1% 1%;
+   
+}
+
+#add{
+    margin: 0.5%  1%  1%  52%;
+    font-weight: bolder;
+  
+}
+
+.SubHeader p button{
+    background-color: #232F3E; 
+     color: white; 
+     border: none;
+}
+
+.sub-btn{
+    margin: 10px ;
+    border: none;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 3px;
+    border-radius: 2px;
+}
